@@ -1,1 +1,7 @@
 # Sentiment-Analysis-on-Movie-Reviews
+
+Identifying and categorizing opinions or feelings that are communicated in a source text is the focus of the field of sentiment analysis. Tweets, status updates, blog entries, and other types of social media content are examples of data produced by social media platforms. The automatic analysis of internet opinions requires a sophisticated comprehension of text written in natural language by computers, a capability that has not yet been achieved. It is not easy to analyze the feelings associated with this enormous volume of data and appropriately classify it. 
+
+Customers and businesses increasingly turn to internet resources for feedback on goods and services. Sentiment analysis and opinion mining have become essential for user experience and product marketing. Thus, this research aims to implement using natural language processing (NLP) that is applied to datasets to determine if the data is positive, or negative from a dataset of movie reviews. This research aims to Identify a structured dataset to extract user opinion through machine learning while performing an in-depth analysis of Convolutional Neural Network (CNN) to extract user opinion. 
+
+This research aims to establish a particular method to identify the sentiment expressed by the author from a movie review dataset containing positive, negative, or neutral statements. This research is expected to extracting user opinion from IMDB movie reviews has 89.220% accurate result identified as positive or negative reviews.
